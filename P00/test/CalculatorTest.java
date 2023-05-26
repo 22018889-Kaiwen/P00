@@ -57,7 +57,6 @@ public class CalculatorTest {
 		
 		int expected = 2000;
 		assertEquals(actual, expected);
-		
 	}
 	@Test
 	public final void testDivide() {
@@ -71,6 +70,7 @@ public class CalculatorTest {
 		assertEquals(actual, expected);
 		
 	}
+
 
 
 }
